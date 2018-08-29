@@ -1,5 +1,6 @@
 .idea
 .allure
-.iml
+*.iml
 target
 allure-results
+.gitattributes
